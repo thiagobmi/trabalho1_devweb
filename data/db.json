@@ -1,0 +1,55 @@
+{
+    "produtos": [
+        {
+            "id": 0, 
+            "nome": "Prod 1",
+            "preco": 150,
+            "numAvaliacoes": 100,
+            "avaliacao": 3,
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a augue id nibh euismod posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum commodo odio ac iaculis. Nulla non dignissim justo. Suspendisse luctus, metus ut lobortis commodo, dui nulla consectetur turpis, non faucibus sapien augue et dolor. Nam viverra nulla at dolor placerat, id maximus mauris consequat. Fusce consequat vulputate mollis. Donec varius est sit amet ultrices tempus. Integer eget diam quam. Mauris dolor lorem, consequat id nulla sed, faucibus tincidunt urna.Fusce posuere ante at luctus interdum. In at eleifend metus. Aliquam erat volutpat. Morbi aliquet ipsum tristique nunc commodo, sed pharetra erat rhoncus."
+        },
+        {
+            "id": 1,
+            "nome": "Prod 2",
+            "preco": 100,
+            "numAvaliacoes": 112,
+            "avaliacao": 4,
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a augue id nibh euismod posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum commodo odio ac iaculis. Nulla non dignissim justo. Suspendisse luctus, metus ut lobortis commodo, dui nulla consectetur turpis, non faucibus sapien augue et dolor. Nam viverra nulla at dolor placerat, id maximus mauris consequat. Fusce consequat vulputate mollis. Donec varius est sit amet ultrices tempus. Integer eget diam quam. Mauris dolor lorem, consequat id nulla sed, faucibus tincidunt urna.Fusce posuere ante at luctus interdum. In at eleifend metus. Aliquam erat volutpat. Morbi aliquet ipsum tristique nunc commodo, sed pharetra erat rhoncus."
+        },
+        {
+            "id": 2,
+            "nome": "Prod 3",
+            "preco": 810,
+            "numAvaliacoes": 5,
+            "avaliacao": 5,
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a augue id nibh euismod posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum commodo odio ac iaculis. Nulla non dignissim justo. Suspendisse luctus, metus ut lobortis commodo, dui nulla consectetur turpis, non faucibus sapien augue et dolor. Nam viverra nulla at dolor placerat, id maximus mauris consequat. Fusce consequat vulputate mollis. Donec varius est sit amet ultrices tempus. Integer eget diam quam. Mauris dolor lorem, consequat id nulla sed, faucibus tincidunt urna.Fusce posuere ante at luctus interdum. In at eleifend metus. Aliquam erat volutpat. Morbi aliquet ipsum tristique nunc commodo, sed pharetra erat rhoncus."
+
+        },
+        {
+            "id": 3,
+            "nome": "Prod 4",
+            "preco": 900,
+            "numAvaliacoes": 11,
+            "avaliacao": 3,
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a augue id nibh euismod posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum commodo odio ac iaculis. Nulla non dignissim justo. Suspendisse luctus, metus ut lobortis commodo, dui nulla consectetur turpis, non faucibus sapien augue et dolor. Nam viverra nulla at dolor placerat, id maximus mauris consequat. Fusce consequat vulputate mollis. Donec varius est sit amet ultrices tempus. Integer eget diam quam. Mauris dolor lorem, consequat id nulla sed, faucibus tincidunt urna.Fusce posuere ante at luctus interdum. In at eleifend metus. Aliquam erat volutpat. Morbi aliquet ipsum tristique nunc commodo, sed pharetra erat rhoncus."
+
+        },
+        {
+            "id": 4,
+            "nome": "Prod 5",
+            "preco": 25,
+            "numAvaliacoes": 65,
+            "avaliacao": 4,
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a augue id nibh euismod posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum commodo odio ac iaculis. Nulla non dignissim justo. Suspendisse luctus, metus ut lobortis commodo, dui nulla consectetur turpis, non faucibus sapien augue et dolor. Nam viverra nulla at dolor placerat, id maximus mauris consequat. Fusce consequat vulputate mollis. Donec varius est sit amet ultrices tempus. Integer eget diam quam. Mauris dolor lorem, consequat id nulla sed, faucibus tincidunt urna.Fusce posuere ante at luctus interdum. In at eleifend metus. Aliquam erat volutpat. Morbi aliquet ipsum tristique nunc commodo, sed pharetra erat rhoncus."
+
+        },
+        {
+            "id": 5,
+            "nome": "Prod 6",
+            "preco": 10,
+            "numAvaliacoes": 190,
+            "avaliacao": 4,
+            "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a augue id nibh euismod posuere. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris elementum commodo odio ac iaculis. Nulla non dignissim justo. Suspendisse luctus, metus ut lobortis commodo, dui nulla consectetur turpis, non faucibus sapien augue et dolor. Nam viverra nulla at dolor placerat, id maximus mauris consequat. Fusce consequat vulputate mollis. Donec varius est sit amet ultrices tempus. Integer eget diam quam. Mauris dolor lorem, consequat id nulla sed, faucibus tincidunt urna.Fusce posuere ante at luctus interdum. In at eleifend metus. Aliquam erat volutpat. Morbi aliquet ipsum tristique nunc commodo, sed pharetra erat rhoncus."
+        }
+    ]
+}
