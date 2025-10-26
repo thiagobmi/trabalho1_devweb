@@ -5,12 +5,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build",
+    "dev": "node_modules/vite/bin/vite.js",
+    "build": "node_modules/vite/bin/vite.js build",
     "lint": "eslint .",
-    "preview": "vite preview",
+    "preview": "node_modules/vite/bin/vite.js preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "node_modules/gh-pages/bin/gh-pages.js -d dist --repo https://github.com/thiagobmi/trabalho1_devweb.git --user \"thiagobmi <thiagomorais.aluno@unipampa.edu.br>\""
   },
   "dependencies": {
     "bootstrap": "^5.3.8",
@@ -34,4 +34,4 @@
     "sass-embedded": "^1.93.2",
     "vite": "^7.1.7"
   }
-}
+}%
